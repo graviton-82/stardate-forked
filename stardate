@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ./stardate-files/
+python3 stardate.py
